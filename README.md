@@ -1,4 +1,29 @@
-<h1 align="center">Hi 👋, I'm Down</h1>
+<h1 align="center">Mikołaj Kruczek</h1>
+<p align="center"><i>Fullstack Developer</i></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About me
+
+- 🔨 I build web apps, backends and mobile apps
+- 🌱 Always learning something new
+
+### 🛠️ Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" width="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" width="48" />
+  <img src="assets/convex.svg" alt="Convex" title="Convex" width="48" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" />
+  <img src="assets/claude.svg" alt="Claude Code" title="Claude Code" width="48" />
+</p>
+
+### 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-DownDev-181717?style=flat&logo=github)](https://github.com/DownDev)
